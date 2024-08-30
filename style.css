@@ -1,0 +1,77 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+header,
+footer {
+  background-color: #68b1b0;
+  height: 100px;
+  width: 1200px;
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+}
+.titulo {
+ float: left;
+  margin-left: 300px;
+}
+section {
+  height: 600px;
+  width: 1200px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 10px;
+  background-color: #fb6afb;
+}
+.div {
+  height: 500px;
+  width: 350px;
+  margin-top: 50px;
+  margin-left: 40px;
+  float: left;
+  background-color: #68b1b0;
+}
+.img {
+  width: 25px;
+  height: 25px;
+}
+.img2 {
+  width: 100px;
+  height: 100px;
+  float:left;
+}
+.img3 {
+  width: 100px;
+  height: 100px;
+  float: right;
+}
+.img4 {
+  margin-top: 30px;
+  margin-left: 125px;
+}
+p {
+  font-size: 20px;
+}
+.p {
+  font-size: 15px;
+}
+.div2 {
+  width: 1000px;
+  height: 500px;
+  margin-top: 50px;
+  margin-left: 100px;
+}
+
+.divtitulo {
+  width: 1200px;
+  height: 50px;
+  text-align: center;
+  font-size: 50px;
+}
+.p2 {
+  font-size: 25px;
+}
+.section2 {
+  height: 900px;
+  width: 1200px;
+}
